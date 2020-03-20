@@ -1,0 +1,1 @@
+In this rectangles.cpp ,There is a big rectangle that you chose width and height.Then you enter a small width and height.After that Program fits as much as small rectangle in big rectangle on svg file.
