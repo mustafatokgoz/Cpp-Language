@@ -1,1 +1,1 @@
-You can compile these program just writing  make in consol.Addition Information : Homework 5 is example of inheritance and polymorphism. In Homework 6 Shared Pointer is used instead of normal pointer.
+You can compile these program just writing  make in consol then you can run the program by writing ./output in consol.Addition Information : Homework 5 is example of inheritance and polymorphism. In Homework 6 Shared Pointer is used instead of normal pointer.
